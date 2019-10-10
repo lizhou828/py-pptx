@@ -23,3 +23,12 @@ py-pptx
 - [自动生成数据分析报告（4）：Hello 分组箱线图）：Hello python-pptx](https://mp.weixin.qq.com/s/4LdxPj4PJqRaNTK0Esv33Q)
 
 - [自动生成数据分析报告（5）：Hello selenium）：Hello python-pptx](https://mp.weixin.qq.com/s/0X0J_A106v79LAUfgTka9g)
+
+
+    
+## 管理依赖文件
+    创建依赖文件
+    pip freeze > requirements.txt
+    
+    安装依赖文件
+    pip install -r requirements.txt 
